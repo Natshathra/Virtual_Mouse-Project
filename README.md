@@ -11,13 +11,9 @@ This project allows users to control their mouse cursor using **hand gestures** 
 - 🖱️ Controls mouse cursor with index finger
 - 👆 Performs mouse clicks with gesture (e.g., index + middle fingers together)
 - 🛑 Press 'q' to quit the program safely
-- 🎤 Voice feedback for interaction (optional)
+- 🎤 Voice feedback for interaction 
 
 ---
-
-## 📽️ Demo
-
-> 📹 [Insert screen recording or GIF link here – can be uploaded to Google Drive or YouTube]
 
 ---
 
@@ -28,7 +24,7 @@ This project allows users to control their mouse cursor using **hand gestures** 
 | `mediapipe`  | Hand detection/tracking    |
 | `opencv`     | Camera feed processing     |
 | `pyautogui`  | Mouse control              |
-| `pyttsx3`    | Text-to-speech (optional)  |
+| `pyttsx3`    | Text-to-speech   |
 | `keyboard`   | Quit program with key press|
 
 ---
